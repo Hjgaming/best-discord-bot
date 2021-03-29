@@ -1,20 +1,20 @@
 {
-  "token": "TOKEN",
+  "token": "NzkxMzI4MzYxMzAxNDA5ODMy.X-Nj9w.rvpxXjQoMvSNp5A5r5YlQDURxEk",
   "prefix": "!",
 
   "clientsettings": {
     "nodes": [
       {
-         "host": "localhost",
-         "port": 2333,
+         "host": "mc1.derp.host",
+         "port": 25606,
          "password": "youshallnotpass"
        }
      ]
   },
 
   "spotify": {
-    "clientSecret": "",
-    "clientID": ""
+    "clientSecret": "3273285fd0674af899b5751491539e39",
+    "clientID": "8838f56a41c547debfd1e51867f728fa"
   },
 
   "settings": {
@@ -40,11 +40,11 @@
   },
 
 
-  "ownerIDS": ["442355791412854784"],
+  "ownerIDS": ["589154804601716838"],
 
 
   "status": {
-    "text": "!help | powered by milrato.eu",
+    "text": "!help | HJ GAMING",
     "type": "STREAMING", "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
     "url": "https://twitch.tv/milratodiscordbot"
   }
